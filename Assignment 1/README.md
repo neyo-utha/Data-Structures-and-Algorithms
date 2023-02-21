@@ -1,7 +1,7 @@
 This is a Java assignment which demonstrates Bubble sort, Optimized bubble sort, Shell sort, Merge sort, Quick sort, Insertion sort and Selection sort. The demonstration file included shows how to input test cases. Test cases also demonstrate the respective run time of each algorithm implemented.
 
 
-
+Detailed Requirements Description: 
 The Shell sort (invented by Dr. Donald Shell) is a variation of the bubble/exchange sort. Instead of comparing adjacent values, the Shell sort adapts the partitioning concept from the binary search to determine a “gap” across which values are compared before any swap takes place. In the first pass, the gap is half the size of the array. For each subsequent pass, the gap size is cut in half. For the final pass(es), the gap size is 1, so it would be the same as a bubble sort. The passes continue until no swaps occur.
 
 Below is the same set of values as per the bubble sort example in Chapter 18 (p. 667), showing the first pass of the Shell sort:
