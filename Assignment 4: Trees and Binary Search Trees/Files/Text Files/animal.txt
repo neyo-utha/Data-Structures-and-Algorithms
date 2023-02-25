@@ -1,0 +1,47 @@
+31
+Do you like living in a warm climate?
+Do you like swimming?
+Do you like flying?
+Do you like mountains?
+Do you like the feeling of being underwater?
+Are you a social creature?
+Do you like sweet things?
+Would you like an all meat carnivore diet?
+Do you like spots?
+Do you like building things?
+Do you like eating seafood and fish?
+Do you like horns?
+Do you like stripes?
+Do you like hunting for food?
+Do you like fruits?
+Your spirit animal is a Reindeer!
+Your spirit animal is a Polar Bear!
+Your spirit animal is a Mountain Goat!
+Your spirit animal is a Mountain Leopard!
+Your spirit animal is a Frog!
+Your spirit animal is a Beaver!
+Your spirit animal is a Shrimp!
+Your spirit animal is a  Shark!
+Your spirit animal is a Tiger!
+Your spirit animal is a Rhino!
+Your spirit animal is a Lion!
+Your spirit animal is a Zebra!
+Your spirit animal is a Vulture!
+Your spirit animal is an Eagle!
+Your spirit animal is a Butterfly!
+Your spirit animal is a Parrot!
+7 15 16
+8 17 18
+9 19 20
+10 21 22
+11 23 24
+12 25 26
+13 27 28
+14 29 30
+3 7 8
+4 9 10
+5 11 12
+6 13 14
+1 3 4
+2 5 6
+0 1 2
